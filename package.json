@@ -1,0 +1,27 @@
+{
+  "name": "cs-411-project",
+  "version": "1.0.0",
+  "description": "先确保自己有npm和node 我自己的版本是这个，理论上需要跟我一个版本\r https://nodejs.org/en/download/\r 可以在这下载",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Rocks/CS-411-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan-Rocks/CS-411-Project/issues"
+  },
+  "engines": {
+    "node": "18.12.1",
+    "npm": ">=6.0.0"
+  },
+  "homepage": "https://github.com/Ivan-Rocks/CS-411-Project#readme",
+  "dependencies": {
+    "server": "^1.0.37"
+  }
+}
